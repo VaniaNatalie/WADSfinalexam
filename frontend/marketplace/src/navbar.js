@@ -43,7 +43,7 @@ const ResponsiveAppBar = () => {
             component="a"
             href="/"
           >
-            <img style={{height:40, width:40}} src="https://cdn-icons.flaticon.com/png/512/3219/premium/3219333.png?token=exp=1656406486~hmac=eade24b37a70be1bcb51b4ea10a1913c"></img>
+            <img style={{height:40, width:40}} src="https://cdn-icons.flaticon.com/png/512/3219/premium/3219333.png?token=exp=1656429682~hmac=f5e6f416e03a7dc7e82cb96fb9ad73d0"></img>
           </Box>
 
           <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
