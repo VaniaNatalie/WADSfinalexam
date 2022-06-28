@@ -1,0 +1,57 @@
+h1.header {
+    font-size: 80px;
+    color: white;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    text-align: center;
+
+}
+h2.header {
+    font-size: 40px;
+    color: white;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    position: absolute;
+    top: 53%;
+    width: 100%;
+    text-align: center;
+   
+}
+h3.header {
+    font-size: 20px;
+    color: white;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    position: absolute;
+    top: 68%;
+    width: 100%;
+    text-align: center;
+   
+}
+
+div.contactus{
+    padding: 20px;
+    text-align: center;
+    
+}
+h2.contactus{
+    font-size: 35px;
+    color: #491c00;
+}
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  
+.flex-container > div {
+    width: 50%;
+    margin: 10px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.imglist {
+    padding: 25px;
+    text-align: center;
+    color: #491c00;
+}

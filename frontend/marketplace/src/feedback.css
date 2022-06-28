@@ -1,0 +1,42 @@
+.container {
+    text-align: center;
+    background-color: #ffffff;
+    position: absolute;
+    margin-left: 300px;
+  }
+  
+  .small-container {
+    border-radius: 25px;
+    background: #cfb284;
+    padding-top: 20px;
+    width: 700px;
+    height: 301px;
+    box-shadow: beige;
+  }
+  
+  .h1-text {
+    color: #490206;
+    font-family: "helvetica", serif;
+  }
+  
+  a:link {
+    color: #cc9966;
+  }
+  
+  a:visited {
+    color: #490206;
+  }
+  
+  a:hover {
+    color: #a35604;
+  }
+  
+  .text-link {
+    font-family: "helvetica", serif;
+    margin-top: 15px;
+    font-size: 85%;
+  }
+  
+  .text-link2 {
+    margin-top: 10px;
+  }
